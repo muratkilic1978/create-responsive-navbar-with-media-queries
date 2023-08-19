@@ -1,0 +1,122 @@
+/* Step 2 */
+/* Reset default style */
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+  }
+  
+  /* Step 3 */
+  /* setting font */
+  
+  body {
+    font-family: montserrat, sans-serif;
+  }
+  
+  /* Step 4 */
+  /* setting font */
+  
+  nav {
+    background-color: #0082e6;
+  }
+  
+  /* Step 5 */
+  /* change height and width of the nav container */
+  
+  nav {
+    background-color: #0082e6;
+    height: 80px;
+    width: 100%;
+  }
+  
+  /* Step 6 */
+  /* Style the logo */
+  
+  label.logo {
+    color: white;
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+  }
+  
+  /* Step 7 */
+  /* Style the nav */
+  
+  nav ul {
+    float: right;
+    margin-right: 20px;
+  }
+  
+  /* Step 8 */
+  /* Style the nav */
+  
+  nav ul li {
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+  }
+  
+  /* Step 9 */
+  /* Style the link inside the nav */
+  
+  nav ul li a {
+    color: white;
+    font-size: 17px;
+    text-transform: uppercase;
+  }
+  
+  /* Step 10 */
+  /* Remember to add the class active on the index.html site before adding css below */
+  /* Style the active link */
+  
+  a.active,
+  a.hover {
+    background-color: #1b9bff;
+    transition: .5s;
+  }
+  
+  /* Step 11 */
+  /* updating the style inside the nav */
+  
+  nav ul li a {
+    color: white;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+  }
+  
+  /* Step 13 */
+  /* styling the label checkbtn class */
+  .checkbtn {
+    font-size: 30px;
+    color: white;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+    cursor: pointer;
+  }
+  
+  /* Step 14 */
+  /* styling the input tag  */
+  #check {
+    display: none;
+  }
+  
+  /* Step 15 */
+  /* styling the label checkbtn class - display none*/
+  .checkbtn {
+    font-size: 30px;
+    color: white;
+    float: right;
+    line-height: 80px;
+    margin-right: 40px;
+    cursor: pointer;
+    display: none;
+  }
+  
+  
