@@ -1,12 +1,11 @@
 # Responsive navigation bar (Part 2 - with media queries)
 
-In this follow-me exercise you will learn to create a responsive navigation bar with HTML and CSS.
+In this follow-me exercise you will learn how to create a responsive navigation bar with HTML and CSS.
 
 ## Installation
 
-Download/clone this repo to your machine (Mac / Win)
-Next open the **style.css** from the repository that you downloaded above with your editor Visual Studio Code. 
-Now try to build a web page similar to the image below. 
+Download/clone this repo to your machine (Mac / Win).
+Next open the **style.css** file from the repository that you downloaded above with your editor Visual Studio Code.  
 
 ## Media Queries in CSS
 
